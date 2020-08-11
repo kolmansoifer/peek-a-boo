@@ -2,3 +2,11 @@
   display: none;
 }
 
+p {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+p:hover {
+  test-decoration: underline;
+}
